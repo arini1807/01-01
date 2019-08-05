@@ -1,2 +1,7 @@
-# 01-01
-Minggu ke-1 Hari ke-1
+# Judul : Mengenal Dart
+
+Oleh : Arini Mauluddina
+Tanggal : 05 Agustus 2019
+
+Ringkasan Materi
+Lisensi
